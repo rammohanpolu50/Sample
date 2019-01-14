@@ -11,6 +11,7 @@ public class Class {
       
       fuck
       fuck the pussy
+      love you
 >>>>>>> branch 'master' of https://github.com/rammohanpolu50/Sample.git
 
 }
