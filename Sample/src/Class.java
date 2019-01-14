@@ -13,6 +13,7 @@ public class Class {
       fuck the pussy
       love you
       thank u 
+      junit
 >>>>>>> branch 'master' of https://github.com/rammohanpolu50/Sample.git
 
 }
