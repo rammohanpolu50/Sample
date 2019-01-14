@@ -8,6 +8,8 @@ public class Class {
     adding new line for testing
     
     adding
+      
+      fuck
 >>>>>>> branch 'master' of https://github.com/rammohanpolu50/Sample.git
 
 }
