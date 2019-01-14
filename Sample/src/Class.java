@@ -10,6 +10,7 @@ public class Class {
     adding
       
       fuck
+      fuck the pussy
 >>>>>>> branch 'master' of https://github.com/rammohanpolu50/Sample.git
 
 }
